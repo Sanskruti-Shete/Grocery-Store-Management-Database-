@@ -1,7 +1,6 @@
 while True:
     print()
     print("WELCOME TO THE GROCERY STORE")
-    print("|| आपका हार्दिक स्वागत है ||")
     print(""" Follow the given instructions:
     Press the respective numbers to carry out the given functions:
 
